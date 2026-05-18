@@ -32,7 +32,8 @@ proposed model can benefit from future adjustments and experimentation.
 Finally, our results show that the microraptor would potentially evolve some  feline-like features but may retain its gliding-approach for hunting when pushed 
 into a more nocturnal lifestyle. This finding supports the proposed hypothesis by García-Girón et al., (2022) that microraptors may possess less niche-plasticity 
 which may have contributed to their extinction. These results do not necessarily end the evolutionary possibility of the Meowl, but highlight future challenges. 
-
+Finally,  we would like to take the chance of the first Meowl researchers to give it a scientific name “Felis Alba Melonpi”. The added Melonpi is the name of the
+original cat from the first photoshopped image. 
 
 ## References
 García-Girón, J., Chiarenza, A. A., Alahuhta, J., DeMar, D. G., Heino, J., Mannion, P. D., Williamson, T. E., Wilson Mantilla, G. P., & Brusatte, S. L. (2022). 
